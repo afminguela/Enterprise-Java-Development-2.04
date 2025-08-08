@@ -1,9 +1,7 @@
 package org.YronJack;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+//Este lab va de excepciones
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
+
 }
